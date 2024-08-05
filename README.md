@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @prashanthgoldberg
+- 👋 Hi, I’m @prashanthKumar
 - 👀 I’m interested in Meachine Learning and Artifical Intelligence 
 - 🌱 I’m currently learning Deep Neural Networks
+- I have 1.9 years of expirinece at Bosch Global Software Limited 
 - 📫 How to reach me by mail id 
 
 <!---
